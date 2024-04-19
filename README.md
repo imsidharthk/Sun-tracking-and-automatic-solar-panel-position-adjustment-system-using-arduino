@@ -1,5 +1,5 @@
-# Sun-tracking-and-automatic-solar-pannel-position-adjustment-system-using-arduino
-In this project i have made a automatic  solar pannel position adjustment system which adjust its position based on the sun movement to produce maximum electricity using ardrino and LDR sensor
+# Sun-tracking-and-automatic-solar-panel-position-adjustment-system-using-arduino
+In this project i have made a automatic  solar panel position adjustment system which adjust its position based on the sun movement to produce maximum electricity using ardrino and LDR sensor
 
 Also, it moves through the dual axis. I used one servo motor and two LDR sensors for that.
 
@@ -14,7 +14,6 @@ Rigifoam / Foam board / Cardboard
 
 ardrino code :-
 /*Solar tracking system
-   https://srituhobby.com
 */
 
 //Include the servo motor library
